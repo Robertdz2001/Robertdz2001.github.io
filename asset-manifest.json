@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ae3dc5d.css",
+    "main.js": "/static/js/main.125f5896.js",
+    "static/js/787.f483f970.chunk.js": "/static/js/787.f483f970.chunk.js",
+    "static/media/titleImage.png": "/static/media/titleImage.03c39bbd50ff1c103257.png",
+    "static/media/snow.png": "/static/media/snow.8194b64fdb68e09e5711.png",
+    "static/media/partly-cloudy-day.png": "/static/media/partly-cloudy-day.da789b4466936bd3493a.png",
+    "static/media/partly-cloudy-night.png": "/static/media/partly-cloudy-night.9de82664425b974c1b4b.png",
+    "static/media/clear-day.png": "/static/media/clear-day.c17ba9c02d266b0f65bc.png",
+    "static/media/fog.png": "/static/media/fog.7916101a40007aa6e0be.png",
+    "static/media/wind.png": "/static/media/wind.0f1785b79ac8d0352705.png",
+    "static/media/rain.png": "/static/media/rain.47b6672ff5464d8494b3.png",
+    "static/media/clear-night.png": "/static/media/clear-night.f6d45671b2d35b107f4a.png",
+    "static/media/cloudy.png": "/static/media/cloudy.6c298c04e1bee162f220.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.1ae3dc5d.css.map": "/static/css/main.1ae3dc5d.css.map",
+    "main.125f5896.js.map": "/static/js/main.125f5896.js.map",
+    "787.f483f970.chunk.js.map": "/static/js/787.f483f970.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ae3dc5d.css",
+    "static/js/main.125f5896.js"
+  ]
+}
